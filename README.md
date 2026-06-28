@@ -126,7 +126,8 @@ The Random Forest Classifier successfully classified Iris flowers based on their
 
 This graph shows the number of samples available for each Iris species. The dataset is balanced, with 50 samples for each class.
 
-![Species Count Plot](images/count_plot.png)
+![Species Count Plot](images/Species%20Count%20Plot.png)
+
 
 ---
 
@@ -134,7 +135,7 @@ This graph shows the number of samples available for each Iris species. The data
 
 The pair plot visualizes the relationship between all four features. It helps identify how well the different Iris species are separated based on their measurements.
 
-![Pair Plot](images/pair_plot.png)
+![Pair Plot](images/Pair%20Plot.png)
 
 ---
 
@@ -142,7 +143,8 @@ The pair plot visualizes the relationship between all four features. It helps id
 
 The heatmap displays the correlation between numerical features. It helps understand which features have strong positive or negative relationships.
 
-![Correlation Heatmap](images/heatmap.png)
+![Correlation Heatmap](images/Correlation%20Heatmap.png)
+
 
 ---
 
@@ -150,4 +152,4 @@ The heatmap displays the correlation between numerical features. It helps unders
 
 The confusion matrix compares the actual species with the model's predicted species. Most predictions are on the diagonal, indicating excellent classification performance.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/Confusion%20Matrix.png)
